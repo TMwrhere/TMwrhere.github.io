@@ -1,0 +1,21 @@
+---
+layout:     post
+title:      "2019 Book List"
+subtitle:   " \"reading thinking\""
+date:       2019-10-24 14:00:00
+author:     "Lan"
+header-img: "img/post-bg-2015.jpg"
+catalog: true
+tags:
+    - 生活
+---
+
+> “Yeah It's on. ”
+
+
+
+<p id = "build"></p>
+
+## 正文
+
+go go go
